@@ -1,5 +1,3 @@
-import { Hello } from 'ims-template';
+import {} from 'ims-template-config';
 
-test('hello', () => {
-  expect(Hello()).toBe('word');
-});
+test('hello', () => {});

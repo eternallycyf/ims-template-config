@@ -1,12 +1,12 @@
 ---
 hero:
-  title: ims-template
-  description: a online docs and npm package template
+  title: ims-template-config
+  description: ims 一些配置
   actions:
     - text: 快速上手
-      link: /guide
+      link: /components
     - text: Github
-      link: https://github.com/eternallycyf/ims-view/
+      link: https://github.com/eternallycyf/ims-template-config/
 ---
 
 <embed src="../README.md"></embed>

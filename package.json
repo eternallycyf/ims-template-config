@@ -1,18 +1,17 @@
 {
-  "name": "ims-template",
-  "version": "1.6.0",
-  "description": "a online docs and npm package template",
+  "name": "ims-template-config",
+  "version": "0.0.1",
+  "description": "ims 一些配置",
   "keywords": [
-    "npm",
-    "template"
+    "config"
   ],
-  "homepage": "https://github.com/eternallycyf/ims-template",
+  "homepage": "https://github.com/eternallycyf/ims-template-config",
   "bugs": {
-    "url": "https://github.com/eternallycyf/ims-template/issues/new"
+    "url": "https://github.com/eternallycyf/ims-template-config/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eternallycyf/ims-template.git"
+    "url": "https://github.com/eternallycyf/ims-template-config.git"
   },
   "license": "MIT",
   "author": "eternallycyf(969475322@qq.com)",
