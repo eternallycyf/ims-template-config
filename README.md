@@ -6,8 +6,6 @@
 
 <h1>ims-template-config</h1>
 
-一个开发 npm 项目的模板
-
 node 版本 v18.13.0
 
 [Changelog](./CHANGELOG.md) · [Report Bug][issues-url] · [Request Feature][issues-url]
@@ -59,7 +57,7 @@ node 版本 v18.13.0
 
 ## 简介
 
-这是一个开发 npm 项目的模板，具有以下特点：
+这是一个 npm 项目的模板配置管理中心
 
 - 🏗️ **基于 father4 的构建工具**：本项目采用了基于 father4 的构建工具，可以更高效地构建项目，提高开发效率；
 - 📖 **基于 dumi2 的文档工具**：本项目采用了基于 dumi2 的文档工具，可以更方便地编写和管理文档，提高文档的可读性和可维护性；
@@ -75,10 +73,6 @@ node 版本 v18.13.0
 ```bash
 pnpm i ims-template-config -S
 ```
-
-### 使用
-
-基于该仓库模板可以快速创建一个 npm 包的工程化脚手架。
 
 详情：[CHANGELOG](./CHANGELOG.md)
 
