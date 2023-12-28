@@ -44,6 +44,11 @@ export const footer = [
         url: 'https://github.com/eternallycyf/components',
         openExternal: true,
       },
+      {
+        title: '@ims-view/editor',
+        url: 'https://ims-editor.vercel.app/',
+        openExternal: true,
+      },
     ],
   },
   {
