@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.2.0](https://github.com/eternallycyf/ims-template-config/compare/v1.1.0...v1.2.0)
+
+<sup>Released on **2024-01-26**</sup>
+
+#### ✨ 新特性
+
+- Add tampermonkey script markdown.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add tampermonkey script markdown ([5ea2bfa](https://github.com/eternallycyf/ims-template-config/commit/5ea2bfa))
+
+</details>
+
 ## [Version&nbsp;1.1.0](https://github.com/eternallycyf/ims-template-config/compare/v1.0.0...v1.1.0)
 
 <sup>Released on **2023-12-28**</sup>
