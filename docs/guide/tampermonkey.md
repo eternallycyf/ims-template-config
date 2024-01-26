@@ -1,9 +1,10 @@
 ---
 title: 油猴脚本
+apiHeader: false
+tocDepth: 4
 nav:
   title: 脚本
   order: 0
-tocDepth: 4
 ---
 
 ## 油猴脚本
