@@ -2,7 +2,7 @@
 title: 说明
 order: 0
 nav:
-  title: 配置
+  title: config
   order: 1
 apiHeader: false
 ---
