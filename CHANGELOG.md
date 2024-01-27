@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.4.0](https://github.com/eternallycyf/ims-template-config/compare/v1.3.0...v1.4.0)
+
+<sup>Released on **2024-01-27**</sup>
+
+#### ✨ 新特性
+
+- Add vue2 vue3 debugger.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add vue2 vue3 debugger ([5d60764](https://github.com/eternallycyf/ims-template-config/commit/5d60764))
+
+</details>
+
 ## [Version&nbsp;1.3.0](https://github.com/eternallycyf/ims-template-config/compare/v1.2.0...v1.3.0)
 
 <sup>Released on **2024-01-26**</sup>
