@@ -2,6 +2,9 @@
 title: 油猴脚本
 apiHeader: false
 tocDepth: 4
+group:
+  title: script
+  order: 0
 nav:
   title: 脚本
   order: 0
