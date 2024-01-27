@@ -10,7 +10,11 @@ nav:
   order: 0
 ---
 
-## ./vscode/launch.json
+## umi
+
+- 以 umi4 为例
+- yarn serve
+- ./vscode/launch.json
 
 ```json
 {
@@ -41,3 +45,5 @@ nav:
   ]
 }
 ```
+
+![](https://raw.githubusercontent.com/eternallycyf/ims-template-config/master/public/images/debugger/umi.png)
