@@ -75,4 +75,5 @@ nav:
 
 - 测试动画
 - 在生产环境遇到异常动画导致的问题 可以定位到元素然后样式覆盖
-  ![](https://raw.githubusercontent.com/eternallycyf/ims-template-config/master/public/images/debugger/animations.png)
+
+![](https://raw.githubusercontent.com/eternallycyf/ims-template-config/master/public/images/debugger/animations.png)
