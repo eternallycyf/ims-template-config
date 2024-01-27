@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.5.0](https://github.com/eternallycyf/ims-template-config/compare/v1.4.0...v1.5.0)
+
+<sup>Released on **2024-01-27**</sup>
+
+#### ✨ 新特性
+
+- Add umi debugger.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add umi debugger ([99f656f](https://github.com/eternallycyf/ims-template-config/commit/99f656f))
+
+</details>
+
 ## [Version&nbsp;1.4.0](https://github.com/eternallycyf/ims-template-config/compare/v1.3.0...v1.4.0)
 
 <sup>Released on **2024-01-27**</sup>
