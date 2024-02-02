@@ -116,4 +116,4 @@ nav:
 
 ### 发生异常: Error: Cannot find module 'jest-environment-jest-environment-jsdom/package.json' from 'xxx'
 
-![](https://raw.githubusercontent.com/eternallycyf/ims-template-config/master/public/images/debugger/terminal.png)
+- 关闭异常断点等
