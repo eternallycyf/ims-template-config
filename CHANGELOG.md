@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.11.0](https://github.com/eternallycyf/ims-template-config/compare/v1.10.0...v1.11.0)
+
+<sup>Released on **2024-02-02**</sup>
+
+#### ✨ 新特性
+
+- Add jest debugger config:.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add jest debugger config: ([61cfcd4](https://github.com/eternallycyf/ims-template-config/commit/61cfcd4))
+
+</details>
+
 ## [Version&nbsp;1.10.0](https://github.com/eternallycyf/ims-template-config/compare/v1.9.0...v1.10.0)
 
 <sup>Released on **2024-02-02**</sup>
