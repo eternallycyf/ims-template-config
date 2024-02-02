@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.13.0](https://github.com/eternallycyf/ims-template-config/compare/v1.12.0...v1.13.0)
+
+<sup>Released on **2024-02-02**</sup>
+
+#### ✨ 新特性
+
+- Add puppeteer debugger.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add puppeteer debugger ([73963ef](https://github.com/eternallycyf/ims-template-config/commit/73963ef))
+
+</details>
+
 ## [Version&nbsp;1.12.0](https://github.com/eternallycyf/ims-template-config/compare/v1.11.1...v1.12.0)
 
 <sup>Released on **2024-02-02**</sup>
