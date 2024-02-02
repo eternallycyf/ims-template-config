@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.12.0](https://github.com/eternallycyf/ims-template-config/compare/v1.11.1...v1.12.0)
+
+<sup>Released on **2024-02-02**</sup>
+
+#### ✨ 新特性
+
+- Add ios and android debugger.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add ios and android debugger ([f20ff1e](https://github.com/eternallycyf/ims-template-config/commit/f20ff1e))
+
+</details>
+
 ### [Version&nbsp;1.11.1](https://github.com/eternallycyf/ims-template-config/compare/v1.11.0...v1.11.1)
 
 <sup>Released on **2024-02-02**</sup>
