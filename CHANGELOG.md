@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.9.0](https://github.com/eternallycyf/ims-template-config/compare/v1.8.0...v1.9.0)
+
+<sup>Released on **2024-02-02**</sup>
+
+#### ✨ 新特性
+
+- Add terminal debugger.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add terminal debugger ([a65c460](https://github.com/eternallycyf/ims-template-config/commit/a65c460))
+
+</details>
+
 ## [Version&nbsp;1.8.0](https://github.com/eternallycyf/ims-template-config/compare/v1.7.0...v1.8.0)
 
 <sup>Released on **2024-01-27**</sup>
