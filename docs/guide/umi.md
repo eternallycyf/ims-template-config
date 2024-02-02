@@ -47,3 +47,13 @@ nav:
 ```
 
 ![](https://raw.githubusercontent.com/eternallycyf/ims-template-config/master/public/images/debugger/umi.png)
+
+## FAQ
+
+### debugger 行数不对
+
+```js
+  chainWebpack: function(config) {
+    config.devtool('source-map');
+  }
+```
