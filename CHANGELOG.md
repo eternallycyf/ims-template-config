@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.10.0](https://github.com/eternallycyf/ims-template-config/compare/v1.9.0...v1.10.0)
+
+<sup>Released on **2024-02-02**</sup>
+
+#### ✨ 新特性
+
+- Add patch-package doc.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add patch-package doc ([0dbe367](https://github.com/eternallycyf/ims-template-config/commit/0dbe367))
+
+</details>
+
 ## [Version&nbsp;1.9.0](https://github.com/eternallycyf/ims-template-config/compare/v1.8.0...v1.9.0)
 
 <sup>Released on **2024-02-02**</sup>
