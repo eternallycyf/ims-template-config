@@ -49,6 +49,11 @@ export const footer = [
         url: 'https://ims-editor.vercel.app/',
         openExternal: true,
       },
+      {
+        title: 'ims-react-directive',
+        url: 'https://github.com/eternallycyf/ims-react-directive',
+        openExternal: true,
+      },
     ],
   },
   {
