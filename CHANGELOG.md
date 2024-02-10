@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.15.0](https://github.com/eternallycyf/ims-template-config/compare/v1.14.0...v1.15.0)
+
+<sup>Released on **2024-02-10**</sup>
+
+#### ✨ 新特性
+
+- Footer use fn.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Footer use fn ([90f2614](https://github.com/eternallycyf/ims-template-config/commit/90f2614))
+
+</details>
+
 ## [Version&nbsp;1.14.0](https://github.com/eternallycyf/ims-template-config/compare/v1.13.0...v1.14.0)
 
 <sup>Released on **2024-02-10**</sup>
