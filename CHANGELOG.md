@@ -1,5 +1,32 @@
 # Changelog
 
+## [Version&nbsp;1.14.0](https://github.com/eternallycyf/ims-template-config/compare/v1.13.0...v1.14.0)
+
+<sup>Released on **2024-02-10**</sup>
+
+#### ✨ 新特性
+
+- Add ims-react-directive link.
+
+#### 📝 文档
+
+- Update README.md.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add ims-react-directive link ([30594d0](https://github.com/eternallycyf/ims-template-config/commit/30594d0))
+
+#### Documentation
+
+- Update README.md ([d059ab9](https://github.com/eternallycyf/ims-template-config/commit/d059ab9))
+
+</details>
+
 ## [Version&nbsp;1.13.0](https://github.com/eternallycyf/ims-template-config/compare/v1.12.0...v1.13.0)
 
 <sup>Released on **2024-02-02**</sup>
