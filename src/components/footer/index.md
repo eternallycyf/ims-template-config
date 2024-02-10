@@ -5,7 +5,7 @@ title: footer
 ## footer
 
 ```ts
-export const footer = [
+export const footer = (repo: string) => [
   {
     title: '相关依赖',
     items: [
@@ -61,16 +61,16 @@ export const footer = [
     items: [
       {
         title: 'GitHub',
-        url: 'https://github.com/eternallycyf/ims-view-pc',
+        url: `https://github.com/eternallycyf/${repo}`,
         openExternal: true,
       },
       {
         title: '更新日志',
-        url: '/changelog/ims-view-pc',
+        url: `/changelog/${repo}`,
       },
       {
         title: '讨论',
-        url: 'https://github.com/eternallycyf/ims-view-pc/issues',
+        url: `https://github.com/eternallycyf/${repo}/issues`,
         openExternal: true,
       },
     ],
