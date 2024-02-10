@@ -1,5 +1,32 @@
 # Changelog
 
+### [Version&nbsp;1.15.1](https://github.com/eternallycyf/ims-template-config/compare/v1.15.0...v1.15.1)
+
+<sup>Released on **2024-02-10**</sup>
+
+#### 🐛 修复
+
+- Remove changelog link extra path.
+
+#### 🔖 杂项
+
+- Update footer.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- Remove changelog link extra path ([609d2a0](https://github.com/eternallycyf/ims-template-config/commit/609d2a0))
+
+#### Chores
+
+- Update footer ([dacf545](https://github.com/eternallycyf/ims-template-config/commit/dacf545))
+
+</details>
+
 ## [Version&nbsp;1.15.0](https://github.com/eternallycyf/ims-template-config/compare/v1.14.0...v1.15.0)
 
 <sup>Released on **2024-02-10**</sup>
