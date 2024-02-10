@@ -59,7 +59,7 @@ export const footer = (repo: string) => [
       },
       {
         title: '更新日志',
-        url: `/changelog/${repo}`,
+        url: `/changelog`,
       },
       {
         title: '讨论',
