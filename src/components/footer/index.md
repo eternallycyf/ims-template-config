@@ -96,6 +96,12 @@ export const footer = (repo: string) => [
         url: 'https://github.com/eternallycyf/ims-template-config',
         openExternal: true,
       },
+      {
+        title: 'eslint-config',
+        description: 'eslint配置',
+        url: 'https://github.com/eternallycyf/eslint-config',
+        openExternal: true,
+      },
     ],
   },
   {
