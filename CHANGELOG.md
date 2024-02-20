@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.16.0](https://github.com/eternallycyf/ims-template-config/compare/v1.15.1...v1.16.0)
+
+<sup>Released on **2024-02-20**</sup>
+
+#### ✨ 新特性
+
+- Add eslint url.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add eslint url ([a7a1889](https://github.com/eternallycyf/ims-template-config/commit/a7a1889))
+
+</details>
+
 ### [Version&nbsp;1.15.1](https://github.com/eternallycyf/ims-template-config/compare/v1.15.0...v1.15.1)
 
 <sup>Released on **2024-02-10**</sup>
