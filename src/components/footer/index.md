@@ -128,6 +128,11 @@ export const footer = (repo: string) => [
         url: 'https://github.com/eternallycyf/lrxc-cli',
         openExternal: true,
       },
+      {
+        title: 'ims-keep-alive',
+        url: 'https://ims-keep-alive.vercel.app/',
+        openExternal: true,
+      },
     ],
   },
 ];
