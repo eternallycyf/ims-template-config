@@ -23,6 +23,11 @@ export const footer = (repo: string) => [
         openExternal: true,
       },
       {
+        title: '@ims-view/components',
+        url: 'https://github.com/eternallycyf/components',
+        openExternal: true,
+      },
+      {
         title: 'ims-graph',
         url: 'https://ims-graph.vercel.app/components/graph-chart',
         openExternal: true,
@@ -30,11 +35,6 @@ export const footer = (repo: string) => [
       {
         title: 'ims-indexed-db',
         url: 'https://ims-indexed-db.vercel.app/',
-        openExternal: true,
-      },
-      {
-        title: '@ims-view/components',
-        url: 'https://github.com/eternallycyf/components',
         openExternal: true,
       },
       {
@@ -95,11 +95,27 @@ export const footer = (repo: string) => [
         url: 'https://github.com/eternallycyf/eslint-config',
         openExternal: true,
       },
+      {
+        title: 'prettier-config',
+        description: 'prettier配置',
+        url: 'https://github.com/eternallycyf/prettier-config',
+        openExternal: true,
+      },
     ],
   },
   {
     title: '更多',
     items: [
+      {
+        title: 'mini-react',
+        url: 'https://www.npmjs.com/package/@ims-view/mini-react',
+        openExternal: true,
+      },
+      {
+        title: 'ims-zustand',
+        url: 'https://www.npmjs.com/package/ims-zustand',
+        openExternal: true,
+      },
       {
         title: 'lrxc-cli',
         url: 'https://github.com/eternallycyf/lrxc-cli',
