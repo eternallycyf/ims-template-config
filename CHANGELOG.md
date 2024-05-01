@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.18.0](https://github.com/eternallycyf/ims-template-config/compare/v1.17.0...v1.18.0)
+
+<sup>Released on **2024-05-01**</sup>
+
+#### ✨ 新特性
+
+- Add ims-keep-alive.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add ims-keep-alive ([80b0ad3](https://github.com/eternallycyf/ims-template-config/commit/80b0ad3))
+
+</details>
+
 ## [Version&nbsp;1.17.0](https://github.com/eternallycyf/ims-template-config/compare/v1.16.0...v1.17.0)
 
 <sup>Released on **2024-05-01**</sup>
