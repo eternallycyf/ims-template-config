@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.17.0](https://github.com/eternallycyf/ims-template-config/compare/v1.16.0...v1.17.0)
+
+<sup>Released on **2024-05-01**</sup>
+
+#### ✨ 新特性
+
+- Add mini-react link.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add mini-react link ([f4ca9a0](https://github.com/eternallycyf/ims-template-config/commit/f4ca9a0))
+
+</details>
+
 ## [Version&nbsp;1.16.0](https://github.com/eternallycyf/ims-template-config/compare/v1.15.1...v1.16.0)
 
 <sup>Released on **2024-02-20**</sup>
