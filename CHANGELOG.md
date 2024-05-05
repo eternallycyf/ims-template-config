@@ -1,5 +1,25 @@
 # Changelog
 
+## [Version&nbsp;1.20.0](https://github.com/eternallycyf/ims-template-config/compare/v1.19.0...v1.20.0)
+
+<sup>Released on **2024-05-05**</sup>
+
+#### ✨ 新特性
+
+- Add umd build, add umd build.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add umd build ([6134862](https://github.com/eternallycyf/ims-template-config/commit/6134862))
+- Add umd build ([492a779](https://github.com/eternallycyf/ims-template-config/commit/492a779))
+
+</details>
+
 ## [Version&nbsp;1.19.0](https://github.com/eternallycyf/ims-template-config/compare/v1.18.0...v1.19.0)
 
 <sup>Released on **2024-05-05**</sup>
