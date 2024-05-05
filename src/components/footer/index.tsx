@@ -42,11 +42,6 @@ export const footer = (repo: string) => [
         url: 'https://ims-editor.vercel.app/',
         openExternal: true,
       },
-      {
-        title: 'ims-react-directive',
-        url: 'https://github.com/eternallycyf/ims-react-directive',
-        openExternal: true,
-      },
     ],
   },
   {
@@ -72,15 +67,15 @@ export const footer = (repo: string) => [
     title: '模板及配置',
     items: [
       {
-        title: 'ims-monorepo-template',
-        description: 'monorepo模板',
-        url: 'https://github.com/eternallycyf/ims-monorepo-template',
-        openExternal: true,
-      },
-      {
         title: 'ims-template',
         description: 'npm模板',
         url: 'https://github.com/eternallycyf/ims-template',
+        openExternal: true,
+      },
+      {
+        title: 'ims-monorepo-template',
+        description: 'monorepo模板',
+        url: 'https://github.com/eternallycyf/ims-monorepo-template',
         openExternal: true,
       },
       {
@@ -124,6 +119,11 @@ export const footer = (repo: string) => [
       {
         title: 'ims-keep-alive',
         url: 'https://ims-keep-alive.vercel.app/',
+        openExternal: true,
+      },
+      {
+        title: 'ims-react-directive',
+        url: 'https://github.com/eternallycyf/ims-react-directive',
         openExternal: true,
       },
     ],
