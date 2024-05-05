@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.21.0](https://github.com/eternallycyf/ims-template-config/compare/v1.20.0...v1.21.0)
+
+<sup>Released on **2024-05-05**</sup>
+
+#### ✨ 新特性
+
+- Update dumi-theme-antd-style version.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Update dumi-theme-antd-style version ([a2d511d](https://github.com/eternallycyf/ims-template-config/commit/a2d511d))
+
+</details>
+
 ## [Version&nbsp;1.20.0](https://github.com/eternallycyf/ims-template-config/compare/v1.19.0...v1.20.0)
 
 <sup>Released on **2024-05-05**</sup>
