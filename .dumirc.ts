@@ -2,9 +2,9 @@ import { defineConfig } from 'dumi';
 import type { SiteThemeConfig } from 'dumi-theme-antd-style';
 import path from 'path';
 import { featuresZh } from './config/features';
-import style from './docs/siteIndexStyle';
 import { homepage, name as repo } from './package.json';
 import { footer } from './src';
+import { style } from './src/index';
 
 const basePath = `/${repo}/`;
 const isProd = process.env.NODE_ENV === 'production';
