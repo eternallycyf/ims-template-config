@@ -53,6 +53,11 @@ export const footer = (repo: string) => [
     title: '模板、后台及配置',
     items: [
       {
+        title: 'ims-threejs-template',
+        url: 'https://github.com/eternallycyf/ims-threejs-template',
+        openExternal: true,
+      },
+      {
         title: 'ims-template',
         url: 'https://github.com/eternallycyf/ims-template',
         openExternal: true,
