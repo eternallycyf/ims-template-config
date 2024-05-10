@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.23.0](https://github.com/eternallycyf/ims-template-config/compare/v1.22.0...v1.23.0)
+
+<sup>Released on **2024-05-10**</sup>
+
+#### ✨ 新特性
+
+- Update threejs template.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Update threejs template ([5811442](https://github.com/eternallycyf/ims-template-config/commit/5811442))
+
+</details>
+
 ## [Version&nbsp;1.22.0](https://github.com/eternallycyf/ims-template-config/compare/v1.21.0...v1.22.0)
 
 <sup>Released on **2024-05-05**</sup>
