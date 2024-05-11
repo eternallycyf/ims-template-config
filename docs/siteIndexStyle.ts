@@ -1,10 +1,3 @@
----
-title: style
----
-
-## style
-
-```ts
 const style = `
   footer{
     position: relative;
@@ -13,4 +6,3 @@ const style = `
 `;
 
 export default style;
-```
