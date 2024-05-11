@@ -1,5 +1,24 @@
 # Changelog
 
+### [Version&nbsp;1.25.1](https://github.com/eternallycyf/ims-template-config/compare/v1.25.0...v1.25.1)
+
+<sup>Released on **2024-05-11**</sup>
+
+#### 🐛 修复
+
+- When use Redux-devtool router toggle error.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- When use Redux-devtool router toggle error ([d3cfc7b](https://github.com/eternallycyf/ims-template-config/commit/d3cfc7b))
+
+</details>
+
 ## [Version&nbsp;1.25.0](https://github.com/eternallycyf/ims-template-config/compare/v1.24.0...v1.25.0)
 
 <sup>Released on **2024-05-11**</sup>
