@@ -1,8 +1,8 @@
-const style = `
+const defaultStyle = `
   footer{
     position: relative;
     z-index: 99;
   }
 `;
 
-export default style;
+export default defaultStyle;
