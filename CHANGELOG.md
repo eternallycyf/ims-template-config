@@ -1,5 +1,24 @@
 # Changelog
 
+### [Version&nbsp;1.25.3](https://github.com/eternallycyf/ims-template-config/compare/v1.25.2...v1.25.3)
+
+<sup>Released on **2024-05-11**</sup>
+
+#### 🐛 修复
+
+- Remove registry.npmmirror.com.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- Remove registry.npmmirror.com ([8d6113e](https://github.com/eternallycyf/ims-template-config/commit/8d6113e))
+
+</details>
+
 ### [Version&nbsp;1.25.2](https://github.com/eternallycyf/ims-template-config/compare/v1.25.1...v1.25.2)
 
 <sup>Released on **2024-05-11**</sup>
