@@ -1,5 +1,34 @@
 # Changelog
 
+## [Version&nbsp;1.25.0](https://github.com/eternallycyf/ims-template-config/compare/v1.24.0...v1.25.0)
+
+<sup>Released on **2024-05-11**</sup>
+
+#### ✨ 新特性
+
+- Update style.
+
+#### 📝 文档
+
+- Footer z-index, footer z-index, footer z-index.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Update style ([1e3696d](https://github.com/eternallycyf/ims-template-config/commit/1e3696d))
+
+#### Documentation
+
+- Footer z-index ([a7ca8e4](https://github.com/eternallycyf/ims-template-config/commit/a7ca8e4))
+- Footer z-index ([fed7719](https://github.com/eternallycyf/ims-template-config/commit/fed7719))
+- Footer z-index ([d764ccc](https://github.com/eternallycyf/ims-template-config/commit/d764ccc))
+
+</details>
+
 ## [Version&nbsp;1.24.0](https://github.com/eternallycyf/ims-template-config/compare/v1.23.0...v1.24.0)
 
 <sup>Released on **2024-05-10**</sup>
