@@ -48,6 +48,16 @@ export const footer = (repo: string) => [
         url: 'https://github.com/eternallycyf/ims-playground',
         openExternal: true,
       },
+      {
+        title: 'React-AnglePicker',
+        url: 'https://github.com/eternallycyf/React-AnglePicker',
+        openExternal: true,
+      },
+      {
+        title: 'ims-gantt-timeline-calendar',
+        url: 'https://ims-gantt-timeline-calendar.vercel.app/',
+        openExternal: true,
+      },
     ],
   },
   {
@@ -204,11 +214,6 @@ export const footer = (repo: string) => [
       {
         title: 'ims-react-directive',
         url: 'https://github.com/eternallycyf/ims-react-directive',
-        openExternal: true,
-      },
-      {
-        title: 'React-AnglePicker',
-        url: 'https://github.com/eternallycyf/React-AnglePicker',
         openExternal: true,
       },
       {
