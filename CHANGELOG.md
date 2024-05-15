@@ -1,5 +1,33 @@
 # Changelog
 
+## [Version&nbsp;1.26.0](https://github.com/eternallycyf/ims-template-config/compare/v1.25.3...v1.26.0)
+
+<sup>Released on **2024-05-15**</sup>
+
+#### ✨ 新特性
+
+- Add ims-gantt-timeline-calendar, add ims-gantt-timeline-calendar.
+
+#### 📝 文档
+
+- Update LICENSE.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add ims-gantt-timeline-calendar ([9dea14b](https://github.com/eternallycyf/ims-template-config/commit/9dea14b))
+- Add ims-gantt-timeline-calendar ([07c02dc](https://github.com/eternallycyf/ims-template-config/commit/07c02dc))
+
+#### Documentation
+
+- Update LICENSE ([9ae9510](https://github.com/eternallycyf/ims-template-config/commit/9ae9510))
+
+</details>
+
 ### [Version&nbsp;1.25.3](https://github.com/eternallycyf/ims-template-config/compare/v1.25.2...v1.25.3)
 
 <sup>Released on **2024-05-11**</sup>
