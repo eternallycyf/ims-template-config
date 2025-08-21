@@ -65,6 +65,11 @@ export const footer = (repo: string) => [
         url: 'https://ims-gantt-timeline-calendar.vercel.app/',
         openExternal: true,
       },
+      {
+        title: 'ims-view-low-code',
+        url: 'https://ims-view-low-code.vercel.app/',
+        openExternal: true,
+      },
     ],
   },
   {
