@@ -1,5 +1,24 @@
 # Changelog
 
+## [Version&nbsp;1.27.0](https://github.com/eternallycyf/ims-template-config/compare/v1.26.0...v1.27.0)
+
+<sup>Released on **2025-08-21**</sup>
+
+#### ✨ 新特性
+
+- Update ims-view-low-code link.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Update ims-view-low-code link ([0005b5f](https://github.com/eternallycyf/ims-template-config/commit/0005b5f))
+
+</details>
+
 ## [Version&nbsp;1.26.0](https://github.com/eternallycyf/ims-template-config/compare/v1.25.3...v1.26.0)
 
 <sup>Released on **2024-05-15**</sup>
