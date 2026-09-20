@@ -75,6 +75,16 @@ export const footer = (repo: string) => [
         url: 'https://ims-audio.vercel.app/',
         openExternal: true,
       },
+      {
+        title: 'ims-flow',
+        url: 'https://ims-flow.vercel.app/',
+        openExternal: true,
+      },
+      {
+        title: 'ims-cat-atlas',
+        url: 'https://ims-cat-atlas.vercel.app/',
+        openExternal: true,
+      },
     ],
   },
   {
