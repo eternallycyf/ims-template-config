@@ -70,7 +70,7 @@ export const footer = (repo: string) => [
       },
       {
         title: 'ims-flow',
-        url: 'https://ims-flow.vercel.app/',
+        url: 'https://ims-flow-two.vercel.app/',
         openExternal: true,
       },
       {
