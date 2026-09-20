@@ -70,6 +70,11 @@ export const footer = (repo: string) => [
         url: 'https://ims-view-low-code.vercel.app/',
         openExternal: true,
       },
+      {
+        title: 'ims-audio',
+        url: 'https://ims-audio.vercel.app/',
+        openExternal: true,
+      },
     ],
   },
   {
